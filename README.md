@@ -1,3 +1,3 @@
 # labra2
-Laboratoriotyöt
-Kaiken näköstä roskaa
+Laboratoriotyöt ja 
+kaiken näköstä roskaa. Jos olet muu kuin ryhmäni jäsen, menepäs pois ja tee oma työsi :)
