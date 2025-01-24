@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.optimize as opt
 import pandas as pd
-
+from lasku import avgVarErr
 show = True
 data = np.loadtxt('potentiaali.dat')
 print(f"Mittaukset: \n\n{pd.DataFrame(data, columns=['Etäisyys', 'Mittaus1', 'Mittaus2', 'Mittaus3'])}\n")
